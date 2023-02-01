@@ -12,7 +12,7 @@
 * Modulo de un número complejo.
 * Conjugado de un número complejo.
 * Fase de un número complejo.
-* Conversión de de un número complejo de su representación rectangular a polar.
+* Conversión de de un número complejo de su representación rectangular a polar. 
 
 
 
