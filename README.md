@@ -32,3 +32,4 @@
 
 Si se desea probar la libreria antes de usarla puede ejecutar el archivo *libcplx.py* desde la consola o desde un editor de texto que permita ejecutar archivos *.py*.
 
+

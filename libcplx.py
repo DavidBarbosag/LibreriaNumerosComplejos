@@ -51,3 +51,4 @@ def fasecplx(c):
 def prettypcplx(c):
     resultado = print(c[0],"+",c[1],"i")
     return resultado
+    
